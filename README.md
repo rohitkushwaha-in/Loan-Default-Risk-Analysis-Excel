@@ -178,17 +178,17 @@ Visualizations include:
 
 ## Key Findings
 
-- A total of **148,670** loan applications were analyzed, with an overall default/rejection rate of **24.64%**.
+- A total of **148,670** loan applications were analyzed, with an overall default rate of **24.64%**.
 
-- Borrowers classified as **High Risk** recorded an **18.6%** default/rejection rate compared with **14.0%** for **Low Risk** borrowers, indicating that the engineered Risk Score effectively differentiates borrower risk.
+- Borrowers classified as **High Risk** recorded an **18.6%** default rate compared with **14.0%** for **Low Risk** borrowers, indicating that the engineered Risk Score effectively differentiates borrower risk.
 
-- The **North-East** region recorded the highest default/rejection rate (**30.45%**), while the **North** region recorded the lowest (**22.51%**).
+- The **North-East** region recorded the highest default rate (**30.45%**), while the **North** region recorded the lowest (**22.51%**).
 
-- Borrowers in the **High Income** category showed the highest default/rejection rate (**38.78%**), highlighting an interesting pattern within this dataset.
+- Borrowers in the **High Income** category showed the highest default rate (**38.78%**), highlighting an interesting pattern within this dataset.
 
-- Loan Purpose **P2** recorded the highest default/rejection rate (**33.08%**), whereas **P4** recorded the lowest (**22.97%**).
+- Loan Purpose **P2** recorded the highest default rate (**33.08%**), whereas **P4** recorded the lowest (**22.97%**).
 
-- Applications evaluated through **EQUI** exhibited an unusually high default/rejection rate compared with other credit bureaus, suggesting further investigation is required.
+- Applications evaluated through **EQUI** exhibited an unusually high default rate compared with other credit bureaus, suggesting further investigation is required.
 
 ---
 
@@ -196,7 +196,6 @@ Visualizations include:
 
 | Sheet | Description |
 |--------|-------------|
-| Raw_Data | Original dataset |
 | Cleaned_Data | Cleaned dataset with engineered features |
 | Pivot_Tables | Pivot tables supporting the dashboard |
 | Dashboard | Interactive dashboard with KPIs and slicers |
